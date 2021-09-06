@@ -1,5 +1,5 @@
-var firstName = prompt ("What is your first name?");
-var lastName = prompt ("What is your last name");
-alert(firstName + " " + lastName);
-document.getElementById("demo").innerHTML = ("Hi" + " " + firstName + " " + lastName);
-console.log("Hi" + firstName + " " + lastName + "!");
+var firstName1 = prompt ("What is your first name?");
+var lastName1 = prompt ("What is your last name");
+alert(firstName1 + " " + lastName1);
+document.getElementById("demo").innerHTML = ("Hi" + " " + firstName1 + " " + lastName1);
+console.log("Hi" + firstName1 + " " + lastName1 + "!");
